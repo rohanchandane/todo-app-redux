@@ -2,7 +2,8 @@
 - this app uses functional components and react-redux hooks `useSelector` and `useDispatch`
 - there is another repo https://github.com/rohanchandane/react-redux-todo using class component with `mapStateToProps` and `mapDispatchToProps`
 
-
+# Redux - React
+![Alt text](gh-redux-react.png)
 
 # Getting Started with Create React App
 
