@@ -1,3 +1,9 @@
+#About this todo app with Redux
+- this app uses functional components and react-redux hooks `useSelector` and `useDispatch`
+- there is another repo using class component with `mapStateToProps` and `mapDispatchToProps`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
