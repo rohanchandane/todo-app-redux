@@ -1,6 +1,6 @@
-#About this todo app with Redux
+# About this todo app with Redux
 - this app uses functional components and react-redux hooks `useSelector` and `useDispatch`
-- there is another repo using class component with `mapStateToProps` and `mapDispatchToProps`
+- there is another repo https://github.com/rohanchandane/react-redux-todo using class component with `mapStateToProps` and `mapDispatchToProps`
 
 
 
