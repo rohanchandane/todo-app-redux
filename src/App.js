@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import './App.css';
 
-import { addTodoAction } from './store/action/todo';
+import { addTodoAction, addTodoAfterDataFetchAction } from './store/action/todo';
 
 function App() {
   // const [items, setItems] = useState([]);
@@ -17,7 +17,7 @@ function App() {
 
   function handleAddTodo()  {
     console.log(inputValue)
-    dispatch(addTodoAction(inputValue));
+    dispatch(addTodoAfterDataFetchAction(inputValue));
     // setItems([...items, inputValue]);
     // setInputValue('');
   }
