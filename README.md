@@ -111,7 +111,7 @@
         }
         ```
         
-- Creating multiple Reducers
+- Creating multiple Reducers (in progress)
 - Middleware: Redux-Thunk
     - Meaning: adding extra functionality to existing function
     - What if I want to perform any Async work like API call to update store state, calling browser APIs (access local storage, cookies)
