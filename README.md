@@ -171,7 +171,8 @@
         .
         const store = createStore(combineReducers({}), composeWithDevTool(applyModdleware(thunk)));
         ```
-
+    - Redux dev tool 
+    ![Alt text](redux-dev-tool.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
